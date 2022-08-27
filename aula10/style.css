@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body {
+   
+    font: normal 18pt arial;
+    background-color: lightblue;
+}
+
+
+h1 {
+    text-shadow: 2px 2px 3px white;
+}
+
+input {
+    font: normal 18pt arial;
+    width: 150px;   
+}
+
+div {
+   
+    border: 2px solid black;
+    width: 490px;
+    margin-top: 20px;
+    background-color: white;
+}
+
+div#res {
+    padding: 5px;
+}
