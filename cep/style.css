@@ -105,3 +105,9 @@ button:active {
     display: flex;
     justify-content:center ;
 }
+
+@media screen and (max-width: 380px) {
+    main {
+        width:380px ;
+    }
+}
