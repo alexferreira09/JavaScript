@@ -12,7 +12,7 @@ body {
 
 #logo {
     margin: 0 auto;
-    width: 500px;
+    max-width: 380px;
     font-family: 'Lily Script One', cursive;
     font-size: 60px;
     font-weight: bold;
@@ -106,14 +106,3 @@ button:active {
     justify-content:center ;
 }
 
-@media screen and (max-width: 380px) {
-    main {
-        width:380px ;
-    }
-
-    #logo {
-        text-align: center;
-        font-size: 30px;
-        color:black;
-    }
-}
