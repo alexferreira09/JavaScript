@@ -31,7 +31,7 @@ body {
 form {
     margin: 0 auto 0 auto;
     padding: 30px;
-    width: 400px;
+    width: 300px;
     height: auto;
     overflow: hidden;
     background: white;
@@ -75,7 +75,7 @@ form input[type=text]:focus {
 
 button {
     padding: 15px 50px;
-    width: auto;
+    width: 150px;
     background: orange;
     border: none;
     border-radius: 1rem;
