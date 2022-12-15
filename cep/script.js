@@ -18,7 +18,7 @@ function criaElementoResultadoErro(value) {
     result.innerHTML = "";
     result.insertAdjacentHTML(
         "beforeend",
-        `<h2> style="color:#F00">${value}</h2>`
+        `<h2 style="color:#F00">${value}</h2>`
     );
 }
 
