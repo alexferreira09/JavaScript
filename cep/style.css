@@ -110,4 +110,10 @@ button:active {
     main {
         width:380px ;
     }
+
+    #logo {
+        text-align: center;
+        font-size: 30px;
+        color:black
+    }
 }
